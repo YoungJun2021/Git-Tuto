@@ -2,3 +2,6 @@ int a;
 int b;
 int result = a + b;
  system.out.print(result);
+
+int result2 = a - b;
+ system.out.print(result2);
